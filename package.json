@@ -1,0 +1,12 @@
+{
+  "name": "sample_nodejs_application",
+  "version": "1.0.0",
+  "description": "Sample NodeJS CLI Application",
+  "main": "index.js",
+  "repository": "https://github.com/zsk282/sample_nodejs_application.git",
+  "author": "zsk282",
+  "license": "MIT",
+  "dependencies": {
+    "open": "^8.4.0"
+  }
+}
